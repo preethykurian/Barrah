@@ -2,3 +2,6 @@ read stduent name,
 read id,
 read specilization,
 read sponsor details
+read the books borrowed
+if books note returned on time
+calculate the fine
