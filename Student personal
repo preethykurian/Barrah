@@ -2,3 +2,5 @@ read stduent name,
 read id,
 read specilization,
 read sponsor details
+read mark1, mark2, mark3, mark4
+cgpa=mark1+ mark2+mark3+mark4/4
